@@ -1,4 +1,3 @@
-let num1 
-let num2
-
-let multiply = (num1 * num2 = 64)
+let num1 = 16
+let num2 = 4
+let multiply = num1* num2
