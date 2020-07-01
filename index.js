@@ -1,3 +1,3 @@
-let num1 = 16
-let num2 = 4
+let num1 = 2
+let num2 = 31
 const multiply = num1 * num2
