@@ -6,4 +6,4 @@ const random = Math.random() * 10
 
 const mod = 19 % 5
 
-const max = 
+const max = Math.max(1,2,3,4,20)
